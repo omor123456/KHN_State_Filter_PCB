@@ -131,24 +131,6 @@ Design Rule Checking
 
 ---
 
-### Project Files
-
-    KHN-State-Variable-Filter-PCB/
-    │
-    ├── README.md
-    │
-    ├── LTspice/
-    │   └── LTspice project files
-    │
-    ├── Altium/
-    │   └── Altium project files
-    │
-    ├── bode-plot.png
-    ├── altium-schematic.png
-    └── pcb-layout.png
-
----
-
 ### Project Context
 
 This project was completed as part of an analog electronics and PCB design course.
